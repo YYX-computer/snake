@@ -1,7 +1,7 @@
 # snake
 snake
 
-install dependents by
+install dependencies by
 ```shell
 pip install tkinter
 pip install pygame
